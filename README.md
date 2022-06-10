@@ -1,0 +1,1 @@
+An exercise for the Front End Path at scrimba.com. A search bar.
